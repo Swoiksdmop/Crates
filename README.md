@@ -7,6 +7,7 @@ then after it's succsessful, `rustc executable.rs --extern math=libmath.rlib && 
 After all this is successful, Congratulate yourself, since you've run a crate, and implemented it on another file.
 
 Thank you, and have a nice day.
-this is after typing `rustc lib.rs`
+
+![image](https://user-images.githubusercontent.com/119572743/219740177-b561477f-4f51-4eb6-ac81-bde30e87e00b.png)
 
 ![Capture](https://user-images.githubusercontent.com/119572743/219739368-7e4e176e-3e46-41e1-946c-3dc6db2a0621.PNG)
