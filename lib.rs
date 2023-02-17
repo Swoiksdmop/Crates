@@ -1,6 +1,6 @@
 // This crate is a library
 #![crate_type = "lib"]
-// The library is named "rary"
+// The library is named "math"
 #![crate_name = "math"]
 
 pub fn public_function() {
